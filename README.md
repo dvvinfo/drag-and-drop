@@ -1,24 +1,9 @@
 # drag-and-drop
 
-## Project setup
+## Стек технологий
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+Vue 2, SCSS, TS.
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Посмотреть можно [тут](https://dvvinfo.github.io/drag-and-drop/).
